@@ -1,0 +1,2 @@
+spotify_cliend_id='bca78196e824433fbdf88ec18d84825f'
+spotify_client_secret='d43763215bd8435eb9b3faaf048ca038'
