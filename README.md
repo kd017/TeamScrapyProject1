@@ -18,5 +18,5 @@ Let’s visit this at the end when you’ve had a chance to see what we have to 
 
 ## Slide Presentation
 
-![alt Project Presentation] (https://docs.google.com/presentation/d/1_3cM0wlnB3FQ-WYdfGPkcIKqSg4cqySp4PPMMLI0pWs/edit?usp=sharing)
+[Project Presentation] (https://docs.google.com/presentation/d/1_3cM0wlnB3FQ-WYdfGPkcIKqSg4cqySp4PPMMLI0pWs/edit?usp=sharing)
 
